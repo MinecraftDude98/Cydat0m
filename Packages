@@ -2,7 +2,7 @@ Package: com.cydat0m.Badlyzepplin
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Cydat0m <minecraftspaceninja@gmail.com>
-Depends: zeppelin
+Depends:
 Filename: /Badly Drawn Supermeme (Zepplin).deb
 Size: 2189
 MD5sum: C9E106EF772279BAA4B9A89D16998253
